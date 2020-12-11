@@ -1,0 +1,9 @@
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\bin\Debug\komp_int_graf_5.exe.config
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\bin\Debug\komp_int_graf_5.exe
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\bin\Debug\komp_int_graf_5.pdb
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\obj\Debug\komp_int_graf_5.csprojAssemblyReference.cache
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\obj\Debug\komp_int_graf_5.Form1.resources
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\obj\Debug\komp_int_graf_5.Properties.Resources.resources
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\obj\Debug\komp_int_graf_5.csproj.GenerateResource.cache
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\obj\Debug\komp_int_graf_5.exe
+C:\Users\Сашок\source\repos\komp_int_graf_5\komp_int_graf_5\obj\Debug\komp_int_graf_5.pdb
